@@ -1,7 +1,8 @@
 # kickstarter-analysis Challenge
+Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
-Performing analysis on Kickstarter data to uncover trends
+To determine the success of a Kick Starter campaign, for a play, based on the goals and the launch date of the campaign.
 
 # Outcomes based on Goals
 ![goals](Outcomes%20Based%20on%20Goals.png)	
