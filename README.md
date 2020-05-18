@@ -1,4 +1,6 @@
 # kickstarter-analysis Challenge
+
+### Challenge
 Performing analysis on Kickstarter data to uncover trends
 
 # Outcomes based on Goals
